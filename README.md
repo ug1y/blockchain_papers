@@ -1,5 +1,5 @@
-# Blockchain-papers
-According to my preference, I collect prevalent papers about blockchain and also make some notes for academic research. All papers are classified into three categories.
+# Blockchain papers
+According to my preference, I collect prevalent papers about blockchain and also make some notes for academic research. All papers are classified into seven categories.
 
 ## List
 - [Overview](#Overview)
