@@ -23,7 +23,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 
 ## Scalability
-
+[CCS '16] [A Secure Sharding Protocol For Open Blockchains](Overview/2016_A_Secure_Sharding_Protocol_For_Open_Blockchains.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. 
+>Note: This paper proposed a new distributed agreement protocol for permission-less blockchains called ELASTICO. It uniformly partitions the mining network into smaller committees, each of which processes a disjoint set of transactions (or “shards”). The sharding protocol assigns each identity to an s-bit committee, where each miner gets its own identity by computing a POW-like solution.
 
 ## Privacy
 
