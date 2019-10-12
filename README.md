@@ -20,7 +20,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 >Note: This paper provided the first systematic exposition Bitcoin and the many related cryptocurrencies. The authors identified three key components of Bitcoin’s design, which is Transaction & Scripts, Consensus & Mining, and Peer-to-Peer Network. The analysis of Bitcoin’s properties and future stability stands in theory position to get some insight. This paper is good for readers to grasp the core of Bitcoin.
 
 ## Consensus
-
+[S&P '14] [Permacoin: Repurposing Bitcoin Work for Data Preservation](Consensus/2014_Permacoin_Repurposing_Bitcoin_Work_for_Data_Preservation.pdf). Miller A, Juels A, Shi E, Parno B, Katz J. 
+>Note: The authors modified Bitcoin by repurposing mining resources from electric power to distributed storage of archival data. The scheme designs an alternative block header based on Proofs-of-Retrievability (PORs), which means that miners should work for generating valid PORs to get block reward. Successfully minting money with this SOP requires local, random access to a copy of a file.
 
 ## Scalability
 [CCS '16] [A Secure Sharding Protocol For Open Blockchains](Scalability/2016_A_Secure_Sharding_Protocol_For_Open_Blockchains.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. 
