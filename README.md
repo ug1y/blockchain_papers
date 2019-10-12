@@ -24,7 +24,7 @@ According to my preference, I collect prevalent papers about blockchain and also
 >Note: The authors modified Bitcoin by repurposing mining resources from electric power to distributed storage of archival data. The scheme designs an alternative block header based on Proofs-of-Retrievability (PORs), which means that miners should work for generating valid PORs to get block reward. Successfully minting money with this SOP requires local, random access to a copy of a file.
 
 [SOSP '17] [Algorand Scaling Byzantine Agreements for Cryptocurrencies](Consensus/2017_Algorand_Scaling_Byzantine_Agreements_for_Cryptocurrencies.pdf). Gilad Y, Hemo R, Micali S, Vlachos G, Zeldovich N. 
->Note: This paper proposes Algorand, a new cryptocurrency with high performance in transaction confirmation. It uses a novel mechanism (sortition) based on Verifiable Random Functions (VRF) to scale the consensus to many users, which are selected to participate in a new Byzantine Agreement (BA) protocol to reach consensus. The sortition algorithm can adjust the size of the selected set by parameters.
+>Note: Algorand is a new cryptocurrency with high confidence in transaction confirmation. It uses a sortition algorithm based on Verifiable Random Functions (VRF) to scale the consensus to many users, which are selected to participate in a new Byzantine Agreement (BA) protocol to reach consensus. The sortition algorithm can control the number of users in each consensus phase by adjusting parameters.
 
 ## Scalability
 [CCS '16] [A Secure Sharding Protocol For Open Blockchains](Scalability/2016_A_Secure_Sharding_Protocol_For_Open_Blockchains.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. 
