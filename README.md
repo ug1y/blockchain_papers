@@ -37,6 +37,9 @@ According to my preference, I collect prevalent papers about blockchain and also
 [INFOCOM '18] [Understanding Ethereum via Graph Analysis](Analysis/2018_Understanding_Ethereum_via_Graph_Analysis.pdf). Chen T, Zhu Y, Li Z, Chen J, Li X, Luo X, Lin X, Zhang X. 
 >Note: This paper conducts the first systematic study to characterize Ethereum through graph analysis. Firstly, the authors collect all transaction data and then construct three graphs, namely money flow graph (MFG), smart contract creates graph (CCG), and smart contract invocation graph (CIG). Lastly, they conduct graph analysis by computing metrics including degree distribution, clustering, degree correlation, etc.
 
+[USENIX '18] [An Empirical Analysis of Anonymity in Zcash](Analysis/2018_An_Empirical_Analysis_of_Anonymity_in_Zcash.pdf). Kappos G, Yousaf H, Maller M, Meiklejohn S. 
+>Note: This paper examines the extent to which anonymity is achieved in Zcash. To achieve the goal, the authors applied well-known clustering heuristics developed for Bitcoin and attribution heuristics into Zcash's shielded pool, the anonymity set for users wishing to spend coins privately. Based on identifiable patterns of usage, They conclude that it is also possible to shrink privacy.
+
 ## Smart Contract
 
 
