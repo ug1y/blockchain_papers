@@ -34,7 +34,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 
 ## Analysis
-
+[INFOCOM '18] [Understanding Ethereum via Graph Analysis](Analysis/2018_Understanding_Ethereum_via_Graph_Analysis.pdf). Chen T, Zhu Y, Li Z, Chen J, Li X, Luo X, Lin X, Zhang X. 
+>Note: This paper conducts the first systematic study to characterize Ethereum through graph analysis. Firstly, the authors collect all transaction data and then construct three graphs, namely money flow graph (MFG), smart contract creates graph (CCG), and smart contract invocation graph (CIG). Lastly, they conduct graph analysis by computing metrics including degree distribution, clustering, degree correlation, etc.
 
 ## Smart Contract
 
