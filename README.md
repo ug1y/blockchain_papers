@@ -32,7 +32,7 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 ## Privacy
 
-[FC '14'][Privacy/2014_Mixcoin_Anonymity_for_Bitcoin_with_accountable_mixes.pdf](Privacy/2014_Mixcoin_Anonymity_for_Bitcoin_with_accountable_mixes.pdf). Bonneau J, Narayanan A, Miller A, et al.
+[FC '14'] [Mixcoin Anonymity for Bitcoin with accountable mixes](Privacy/2014_Mixcoin_Anonymity_for_Bitcoin_with_accountable_mixes.pdf). Bonneau J, Narayanan A, Miller A, et al.
 
 > Note: This paper propose a protocol to achieve a general design, allowing clients and mixes to specify a variety of free parameters to facilitate anonymous payments in bitcoin and similar cryptocurrencies. With this protocol, we can complete the mixing in a few hours, prevent the stealing and fees of less than 1% without changes to Bitcoin itself. Against active attackers this scheme oﬀers similar anonymity to traditional communication mixes.
 
