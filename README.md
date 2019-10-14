@@ -30,7 +30,7 @@ According to my preference, I collect prevalent papers about blockchain and also
 [CCS '16] [A Secure Sharding Protocol For Open Blockchains](Scalability/2016_A_Secure_Sharding_Protocol_For_Open_Blockchains.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. 
 >Note: This paper proposed a new distributed agreement protocol for permission-less blockchains called ELASTICO. It uniformly partitions the mining network into smaller committees, each of which processes a disjoint set of transactions (or “shards”). The sharding protocol assigns each identity to an s-bit committee, where each miner gets its own identity by computing a POW-like solution.
 
-[NSDI '16] [Bitcoin-NG: A Scalable Blockchain Protocol](Scalability/2016_Bitcoin-NG_A Scalable_Blockchain_Protocol.pdf). Eyal I, Gencer AE, Sirer EG, Renesse R. 
+[NSDI '16] [Bitcoin-NG: A Scalable Blockchain Protocol](Scalability/2016_BitcoinNG_A Scalable_Blockchain_Protocol.pdf). Eyal I, Gencer AE, Sirer EG, Renesse R. 
 >Note: This paper presents Bitcoin-NG, a new blockchain protocol that is designed to scale for higher transaction throughput. The protocol divides time into epochs. In each epoch, a single leader is in charge of transaction processing. Thus, it introduces two types of blocks: key blocks for leader election and microblocks that contain the ledger entries, and proposes heaviest chain rule for security concern.
 
 ## Privacy
