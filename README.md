@@ -47,4 +47,5 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 
 ## Application
-
+[USENIX '16] [Blockstack A Global Naming and Storage System Secured by Blockchains](Application/2016_Blockstack_A_Global_Naming_and_Storage_System_Secured_by_Blockchains.pdf). Ali M, Nelson J, Shea R, Freedman MJ. 
+>Note: This paper first describes the experiences about deploying a decentralized PKI service built on top of the Namecoin blockchain. Learning from the experiences, the authors concluded various challenges and proposed Blockstack, a blockchain-based naming and storage system. The system worked in Bitcoin with separate control plane (blockchain layer and virtualchain layer) and data plane (routing layer and data storage layer).
