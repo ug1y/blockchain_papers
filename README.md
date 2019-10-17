@@ -35,7 +35,7 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 ## Privacy
 [S&P '13] [Zerocoin Anonymous Distributed E-Cash from Bitcoin](Privacy/2013_Zerocoin_Anonymous_Distributed_E-Cash_from_Bitcoin.pdf). Miers I, Garman C, Green M, Rubin AD. 
->Note: 
+>Note: This paper proposes Zerocoin, a cryptographic extension to Bitcoin for fully anonymous currency transactions. It uses accumulators and non-interactive zero-knowledge signatures of knowledge to reach anonymity, based on Strong RSA problem and Discrete Logarithm assumptions respectively. This allows users to mint random coins without revealing them but shows some involved serial number to spend them.
 
 ## Analysis
 [INFOCOM '18] [Understanding Ethereum via Graph Analysis](Analysis/2018_Understanding_Ethereum_via_Graph_Analysis.pdf). Chen T, Zhu Y, Li Z, Chen J, Li X, Luo X, Lin X, Zhang X. 
