@@ -14,7 +14,7 @@ According to my preference, I collect prevalent papers about blockchain and also
 
 ## Overview
 ['08] [Bitcoin: A Peer-to-Peer Electronic Cash System](Overview/2008_Bitcoin_A_Peer-to-Peer_Electronic_Cash_System.pdf). Nakamoto S. 
->Note: The first paper that introduced the concept of blockchain. This paper presented a complete system by mainly defining transactions with multi-input and multi-output, chain structure of blocks containing transactions and proof of work for the majority decision. Besides, the incentive mechanism implies that the one who creates a new block gains reward.
+>Note: This is the first paper that introduces the concept of blockchain. It presentes a complete system by mainly defining transactions with multi-input and multi-output, chain structure of blocks containing transactions and proof of work for the majority decision. Besides, the incentive mechanism implies that the one who creates a new block gains reward.
 
 [S&P '15] [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](Overview/2015_SoK_Research_perspectives_and_challenges_for_bitcoin_and_cryptocurrencies.pdf). Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. 
 >Note: This paper provided the first systematic exposition Bitcoin and the many related cryptocurrencies. The authors identified three key components of Bitcoin’s design, which is Transaction & Scripts, Consensus & Mining, and Peer-to-Peer Network. The analysis of Bitcoin’s properties and future stability stands in theory position to get some insight. This paper is good for readers to grasp the core of Bitcoin.
@@ -34,7 +34,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 >Note: This paper presents Bitcoin-NG, a new blockchain protocol that is designed to scale for higher transaction throughput. The protocol divides time into epochs. In each epoch, a single leader is in charge of transaction processing. Thus, it introduces two types of blocks: key blocks for leader election and microblocks that contain the ledger entries, and proposes heaviest chain rule for security concern.
 
 ## Privacy
-
+[S&P '13] [Zerocoin Anonymous Distributed E-Cash from Bitcoin](Privacy/2013_Zerocoin_Anonymous_Distributed_E-Cash_from_Bitcoin.pdf). Miers I, Garman C, Green M, Rubin AD. 
+>Note: 
 
 ## Analysis
 [INFOCOM '18] [Understanding Ethereum via Graph Analysis](Analysis/2018_Understanding_Ethereum_via_Graph_Analysis.pdf). Chen T, Zhu Y, Li Z, Chen J, Li X, Luo X, Lin X, Zhang X. 
