@@ -48,7 +48,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 >Note: This paper examines the extent to which anonymity is achieved in Zcash. To achieve the goal, the authors applied well-known clustering heuristics developed for Bitcoin and attribution heuristics into Zcash's shielded pool, the anonymity set for users wishing to spend coins privately. Based on identifiable patterns of usage, They conclude that it is also possible to shrink privacy.
 
 ## Smart Contract
-
+[S&P '16] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](Smart-Contract/2016_Hawk_The_Blockchain_Model_of_Cryptography_and_Privacy-Preserving_Smart_Contracts.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C.
+>Note: This paper presents Hawk, a decentralized smart contract system that helps programmers to write a private smart contract intuitively without concerning cryptography implementation. The compiler automatically generates an efficient cryptographic protocol with new primitives including freeze, compute and finalize using zero-knowledge proofs. The authors formalize the blockchain model of cryptography and put implementation.
 
 ## Application
 [USENIX '16] [Blockstack A Global Naming and Storage System Secured by Blockchains](Application/2016_Blockstack_A_Global_Naming_and_Storage_System_Secured_by_Blockchains.pdf). Ali M, Nelson J, Shea R, Freedman MJ. 
