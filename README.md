@@ -37,8 +37,8 @@ According to my preference, I collect prevalent papers about blockchain and also
 [S&P '13] [Zerocoin Anonymous Distributed E-Cash from Bitcoin](Privacy/2013_Zerocoin_Anonymous_Distributed_E-Cash_from_Bitcoin.pdf). Miers I, Garman C, Green M, Rubin AD. 
 >Note: This paper proposes Zerocoin, a cryptographic extension to Bitcoin for fully anonymous currency transactions. It uses accumulators and non-interactive zero-knowledge signatures of knowledge to reach anonymity, based on Strong RSA problem and Discrete Logarithm assumptions respectively. This allows users to mint random coins without revealing them but shows some involved serial number to spend them.
 
-[S&P '14] [Zerocash Decentralized Anonymous Payments from Bitcoin](Smart-Contract/2014_Zerocash_Decentralized_Anonymous_Payments_from_Bitcoin.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M.
->Note: 
+[S&P '14] [Zerocash Decentralized Anonymous Payments from Bitcoin](Privacy/2014_Zerocash_Decentralized_Anonymous_Payments_from_Bitcoin.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M.
+>Note: This paper constructs a full-fledged ledger-based digital currency using a zero-knowledge proof technique called zk-SNARKs. The authors formulate decentralized anonymous payment schemes that enable users to directly pay each other privately without revealing the payment’s origin, destination, and transferred amount. In detail, Zerocash uses a two-hierarchical commitment to simultaneously hide sender and amount.
 
 ## Analysis
 [INFOCOM '18] [Understanding Ethereum via Graph Analysis](Analysis/2018_Understanding_Ethereum_via_Graph_Analysis.pdf). Chen T, Zhu Y, Li Z, Chen J, Li X, Luo X, Lin X, Zhang X. 
